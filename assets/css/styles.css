@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Love+Light&family=Poppins:wght@200&display=swap');
+
+body{
+    background: url(file:///C:/Users/reich/OneDrive/Desktop/CV-web/assets/img/background_img.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    }
+ 
+  
+    .left{
+        float: left;
+        width: 650px;
+        background: #eecdee00;
+        margin: 10px 10px 10px 10px;
+        border-radius: 20px;;
+        background-color: rgba(0, 255, 255, 0);
+        margin-left: 40px;
+    }
+    .right{
+        float: right;
+        width: 650px;
+        background:rgba(100, 200, 231, 0);
+        margin:10px;
+        border-radius: 20px;
+        margin-right: 40px;
+    }
+
+    .span{
+        font-weight: 400;
+        font-style: normal;
+        color: rgb(159, 116, 184);
+        text-decoration: none;
+    }
+
+    .nombre{
+        font-family: 'Love Light', cursive; 
+        font-size: 103.049px; 
+        color: rgb(158, 116, 184); 
+        line-height: 103px; 
+        letter-spacing: 0.02em; 
+        text-transform: none; 
+        list-style-type: none;
+        margin-right: 160px;
+
+    }
+    .apellido{
+        position: absolute;
+        width: 324px;
+        height: 77px;
+        left: 329px;
+        top: 202px;
+        
+        font-family: Poppins;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 48px;
+        line-height: 72px;
+        text-align: center;
+        
+        color: #DEB0DF;
+    }
+
+.titulo{
+    font-family: 'Poppins';
+    font-size: 30px; 
+    font-weight: bold;
+    color: rgb(128, 89, 153); 
+    letter-spacing: 0.025em;  
+    text-transform: none; 
+    list-style-type: none;
+}
+
+.descripcion{
+    font-family: 'Poppins'; 
+    font-size: 18px; 
+    color: rgb(104, 73, 124); 
+    text-align: justify;
+    margin: 20px 5px 20px 5px;
+ 
+}
+
+.etiquetas{
+    display: table;
+    width: 650px;
+    background-color: rgb(250, 205, 230);
+}
+
+.span_etiqueta{
+    font-family: 'Poppins'; 
+    font-size: 20px;
+    font-weight: bold;
+    font-style: normal; 
+    color: rgb(147, 107, 172); 
+    text-decoration: none;
+    width: auto;
+    display: block;
+    margin-right: 0px;
+    text-align: center;
+
+}
+
+.fecha{
+    font-family: roboto; 
+    font-style: normal; 
+    font-weight: bold;
+    color: rgb(128, 89, 153); 
+    text-decoration: none;
+    margin-right: 385px;
+    font-size: 20px;
+}
+.fecha1{
+    font-family: roboto; 
+    font-style: normal; 
+    font-weight: bold;
+    color: rgb(128, 89, 153); 
+    text-decoration: none;
+    margin-right: 420px;
+    font-size: 20px;
+}
+
+.titulo_carrera{
+    font-family: 'Poppins';
+    font-style: normal; 
+    color: rgb(128, 89, 153); 
+    text-decoration: none;
+   
+}
+
+.universidad_curso{
+    font-family:  Roboto; 
+    font-size: 18px; 
+    color: rgb(128, 89, 153); 
+    line-height: 16px; 
+    letter-spacing: 0em;  
+    text-transform: none; 
+    margin-right: 440px;
+}
+.universidad_curso2{
+    font-family:  Roboto; 
+    font-size: 18px; 
+    color: rgb(128, 89, 153); 
+    line-height: 16px; 
+    letter-spacing: 0em;  
+    text-transform: none; 
+    margin-right: 480px;
+}
+.nombre_carrera_curso{
+font-family: Roboto;
+font-size: 20px;
+color: #805999;
+color:rgb(128, 89, 153);
+margin-right: 400px;
+}
+.universidad_curso1{
+    font-family:  Roboto; 
+    font-size: 18px; 
+    color: rgb(128, 89, 153); 
+    line-height: 16px; 
+    letter-spacing: 0em;  
+    text-transform: none; 
+    margin-right: 400px;
+}
+
+.nombre_carrera_curso1{
+font-family: Roboto;
+font-size: 20px;
+color: #805999;
+color:rgb(128, 89, 153);
+margin-right: 470px;
+}
+.nombre_carrera_curso2{
+font-family: Roboto;
+font-size: 20px;
+color: #805999;
+color:rgb(128, 89, 153);
+margin-right: 460px;
+}
+.nombre_carrera_curso3{
+        font-family: Roboto;
+        font-size: 20px;
+        color: #805999;
+        color:rgb(128, 89, 153);
+        margin-right: 565px; 
+}
+
+.circulo_fondo{
+        width: 300px;
+        height: 300px;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+        left: 830px;
+        text-align: center;
+        background: #FAD6FB;
+        margin-left: 180px;
+
+}
+
+.img_cv{
+   border-radius: 50%; 
+   width: 250px;
+   height: 250px;
+   margin: 25px 20px 20px 20px;
+   text-align: center;
+   
+}
+
+.habilidades{
+    font-family: Roboto; 
+    font-size: 20px; 
+    color: rgb(128, 89, 153); 
+    line-height: 15.6px; 
+    letter-spacing: 0em; 
+    font-weight: 400; 
+    font-style: normal;
+    text-decoration: none;
+    margin-left: 15px;
+    
+}
+
+.lista_habilidades{
+    font-family: Roboto;
+    font-size: 19px;
+    line-height: 22px;
+}
+
+.contacto{
+    font-family: 'Roboto';
+    font-size: 20px; 
+    color: rgb(128, 89, 153); 
+    line-height: 25px; 
+    letter-spacing: 0em; 
+    text-transform: none; 
+    list-style-type: none;
+    font-weight: 400; 
+    font-style: normal; 
+    text-decoration: none;
+    margin-left: 10px;
+}
+
+.vinculo_cv{
+    color: #8e71a0;
+    font-family: 'Roboto';
+}
+ 
+
+   
